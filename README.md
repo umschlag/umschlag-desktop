@@ -1,6 +1,6 @@
 # Umschlag: Desktop
 
-[![Build Status](http://github.dronehippie.de/api/badges/umschlag/umschlag-desktop/status.svg)](http://github.dronehippie.de/umschlag/umschlag-desktop)
+[![Build Status](http://drone.uschlag.tech/api/badges/umschlag/umschlag-desktop/status.svg)](http://drone.uschlag.tech/umschlag/umschlag-desktop)
 [![Stories in Ready](https://badge.waffle.io/umschlag/umschlag-api.svg?label=ready&title=Ready)](http://waffle.io/umschlag/umschlag-api)
 [![Join the Matrix chat at https://matrix.to/#/#umschlag:matrix.org](https://img.shields.io/badge/matrix-%23umschlag%3Amatrix.org-7bc9a4.svg)](https://matrix.to/#/#umschlag:matrix.org)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/7eee38dd5f5041339bfd408d4f1792e3)](https://www.codacy.com/app/umschlag/umschlag-desktop?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=umschlag/umschlag-desktop&amp;utm_campaign=Badge_Grade)
